@@ -1,0 +1,15 @@
+{
+    "name": "pyntax/socialmedia-connector",
+    "authors": [
+        {
+            "name": "Sahil Sharma",
+            "email": "SahilSharmaMIT2013@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pyntax\\": "src/"
+        }
+    }
+}
